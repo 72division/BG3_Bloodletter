@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="7" build="406"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+				<node id="ClassDescription"> Subclass (you will need one of this for each subclass)
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+					<attribute id="Description" type="TranslatedString" handle="h0da7b989gcbebg41ebgb9d5g038065b582ac" version="1"/> Link to the .loca file
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9bf7ef1ag3403g49b5ga9ceg54ab232af032" version="1"/> Link to the .loca file
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Bloodletter"/> name of your subclass
+                    <attribute id="ParentGuid" type="guid" value="e8b1eab0-ef11-40a2-8a0b-cee8d062bf2a"/> This is the same UUID as your main class, as the main class act as the subclass' parent
+                    <attribute id="PrimaryAbility" type="uint8" value="4"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> This is a different table as the Main Class, as this one is specific to the subclass
+                    <attribute id="SoundClassType" type="FixedString" value="Rogue"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="UUID" type="guid" value="0cfae0ab-4ad6-444d-a3ad-22d6eeeec4ca"/> Make a unique UUID for the subclass
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
+
