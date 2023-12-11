@@ -21,13 +21,6 @@ data "Description" "h13f4ebc2gc264g4f73g994fg74099498a1d4"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Target_OpenWounds_Bloodletter)"
 
-new entry "Unlock_TrashTalk"
-type "PassiveData"
-data "DisplayName" "h575b682cge121g4168gaa3fg74504b88ef75"
-data "Description" "h13f4ebc2gc264g4f73g994fg74099498a1d4"
-data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Target_ViciousMockery)"
-
 new entry "Unlock_BloodStep"
 type "PassiveData"
 data "DisplayName" "h5e350649g8cefg4c51gace6g169759891ec2"
