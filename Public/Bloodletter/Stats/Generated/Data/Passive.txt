@@ -54,7 +54,7 @@ type "PassiveData"
 data "DisplayName" "h67a91ab0gcaaeg4d5bg974age89a10d44656"
 data "Description" "h041c62f9g5d3ag48f3gb1ceg62376a825e89"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Target_Dissect_Blind)"
+data "Boosts" "UnlockSpell(Target_Dissect_Container)"
 
 new entry "Unlock_Autopsy_Trip"
 type "PassiveData"
