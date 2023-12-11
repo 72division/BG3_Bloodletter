@@ -10,11 +10,11 @@
 	<content contentuid="hb7c5647bgf13ag41a5ga7d1gc69449a8dfe8" version="1">Teleport on blood surface</content>
 	<content contentuid="h6ebbf9c2gd1b0g4576gb557gd68abba66a8b" version="1">Sense Blood Flow</content>
 	<content contentuid="hb34138eag1342g4724g990bgb02380728616" version="1">You sense where blood is flowing. </content>
-	<content contentuid="hfdfd167cga769g4693gaf4cg56d9bd0557a6" version="1">Autopsy: Eye Dissection</content>
+	<content contentuid="hfdfd167cga769g4693gaf4cg56d9bd0557a6" version="1">Eye Dissection</content>
 	<content contentuid="he96bbce8g5a2bg4ee9gb87dgf2c268fce3d2" version="1">With your autopsy and anatomical expertise, dissect eyes from the dead body.</content>
-	<content contentuid="h5a8d39ecge4c2g4626gbae5g2dbc609e676e" version="1">Autopsy: Hamstring Dissection</content>
+	<content contentuid="h5a8d39ecge4c2g4626gbae5g2dbc609e676e" version="1">Hamstring Dissection</content>
 	<content contentuid="hdb794390g6356g4b57g905cgf4c00b5f1b76" version="1">With your autopsy and anatomical expertise, dissect hamstrings from the dead body.</content>
-	<content contentuid="hafa5582egb351g406bga8dbg60a8c026673e" version="1">Autopsy: Larynx Dissection</content>
+	<content contentuid="hafa5582egb351g406bga8dbg60a8c026673e" version="1">Larynx Dissection</content>
 	<content contentuid="h2f714153g2180g4984gb571g588e1d4db670" version="1">With your autopsy and anatomical expertise, dissect larynx from the dead body.</content>
 	<content contentuid="hc220d2a0g3cdcg4690ga8fcge232c1f9bdd8" version="1">Throw Blood Bag</content>
 	<content contentuid="h4517bdfcg8707g4473g87cegcc8b97b3f9ef" version="1">Trow a blood bag on a ground to make a blood surface. This consumes a Blood Bag charge.</content>
@@ -30,8 +30,8 @@
 	<content contentuid="hd2ed2759gd104g4a99ga31dg2f61d29e9812" version="1">Bloodletter deals additional damage equal to their Intelligence Modifier with weapon attacks.</content>
 	<content contentuid="h69578bcfg7462g41d0gadc8g9204e7b0dd0a" version="1">Blood Seeker</content>
 	<content contentuid="h376dca2dgafadg4f93g9b6dg3935c6c31e6d" version="1">B.S</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h67a91ab0gcaaeg4d5bg974age89a10d44656" version="1">Dissect Cadaver</content>
+	<content contentuid="h041c62f9g5d3ag48f3gb1ceg62376a825e89" version="1">Autopsy description text here</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
