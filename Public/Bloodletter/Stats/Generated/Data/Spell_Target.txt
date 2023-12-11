@@ -115,7 +115,7 @@ data "SpellProperties" "IF(not SavingThrow(Ability.Constitution, SourceSpellDC()
 data "Icon" "Spell_Evocation_BlindingSmite"
 data "DisplayName" "hfdfd167cga769g4693gaf4cg56d9bd0557a6"
 data "Description" "he96bbce8g5a2bg4ee9gb87dgf2c268fce3d2"
-data "DescriptionParams" ""
+data "ExtraDescription" ""
 data "TooltipStatusApply" "ApplyStatus(BLINDING_SMITE_BLINDED,100,2)"
 data "SpellFlags" "IsMelee;IsHarmful;IsSpell"
 
@@ -128,9 +128,8 @@ data "SpellProperties" "IF(not SavingThrow(Ability.Constitution, SourceSpellDC()
 data "Icon" "Spell_Evocation_BlindingSmite"
 data "DisplayName" "hafa5582egb351g406bga8dbg60a8c026673e"
 data "Description" "h2f714153g2180g4984gb571g588e1d4db670"
-data "DescriptionParams" ""
+data "ExtraDescription" ""
 data "TooltipStatusApply" "ApplyStatus(SILENCED,100,2)"
-data "SpellFlags" "IsMelee;IsHarmful;IsSpell"
 
 
 new entry "Target_Autopsy_Trip"
