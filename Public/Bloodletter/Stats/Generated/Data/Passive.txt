@@ -68,7 +68,7 @@ type "PassiveData"
 data "DisplayName" "hc220d2a0g3cdcg4690ga8fcge232c1f9bdd8"
 data "Description" "h4517bdfcg8707g4473g87cegcc8b97b3f9ef"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Target_Throw_BloodBag)"
+data "Boosts" "UnlockSpell(Projectile_Throw_BloodBag)"
 
 new entry "Unlock_Phlebotomy_Other"
 type "PassiveData"
