@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="323"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d8"/>
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level10" type="LSString" value="1d10"/>
+                    <attribute id="Name" type="FixedString" value="BloodDie"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="e8b1eab0-ef11-40a2-8a0b-cee8d062bf2a"/>
+                    <attribute id="UUID" type="guid" value="5debe718-74e7-4d14-bc6f-4d32d72cb398"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
