@@ -112,3 +112,4 @@ data "DisplayName" "h51305266gc327g4472gaeddg75f0cf16ca1b"
 data "Description" "h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Target_Bloodletter_Death_Pronouncement)"
+
