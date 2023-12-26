@@ -25,17 +25,17 @@
 	<content contentuid="h62d62cefg35cfg4c22ga210gf587be1537ec" version="1">Anatomy</content>
 	<content contentuid="hef2493d1g41cbg443fgb7c0g46d88da323ad" version="1">gain passive bonus</content>
 	<content contentuid="h59913ddcgf289g476fg95e5gacb9763ab8ca" version="1">Exsanguinating Strike</content>
-	<content contentuid="h51a3d174gbca4g4a1cg83c6gefd01be7ca46" version="1">Following a successful sneak attack, you seamlessly transition into a melee strike potentially causing bleeding</content>
+	<content contentuid="h51a3d174gbca4g4a1cg83c6gefd01be7ca46" version="1">Following a successful sneak attack, you seamlessly transition into a melee strike potentially causing [2] and deals [1]</content>
 	<content contentuid="h24bb3288gbba3g43a6g9dc7gb7d3f971df81" version="1">Anatomy</content>
 	<content contentuid="hd2ed2759gd104g4a99ga31dg2f61d29e9812" version="1">Bloodletter deals additional damage equal to their Wisdom Modifier with weapon attacks.</content>
 	<content contentuid="h69578bcfg7462g41d0gadc8g9204e7b0dd0a" version="1">Surgical Precision </content>
 	<content contentuid="h376dca2dgafadg4f93g9b6dg3935c6c31e6d" version="1">Your Wisdom Modifier is added to your attack and damage roll when your target is bleeding or standing on a blood surface</content>
 	<content contentuid="h67a91ab0gcaaeg4d5bg974age89a10d44656" version="1">Cadaveric Dissection </content>
-	<content contentuid="h041c62f9g5d3ag48f3gb1ceg62376a825e89" version="1">With the precision of an anatomist, you deploy this skill against undead foes. Selecting a target cadaver, you execute precise dissectio.</content>
+	<content contentuid="h041c62f9g5d3ag48f3gb1ceg62376a825e89" version="1">With the precision of an anatomist, you deploy this skill against undead foes. Selecting a target cadaver, you execute precise dissection and deals [1].</content>
 	<content contentuid="h51305266gc327g4472gaeddg75f0cf16ca1b" version="1">Death Pronouncement</content>
-	<content contentuid="h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e" version="1">Declares the impending demise of a wounded target with less than 50% health.  On a successful Saving Throw, target still take half damage. </content>
+	<content contentuid="h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e" version="1">Declares the impending demise of a wounded target with less than 50% health.</content>
 	<content contentuid="h27952cf8gbd40g4b8dg8555g8a199099b542" version="1">Death Pronounced</content>
-	<content contentuid="h35eea38fg12d5g4d05gba60ga770d8c65df5" version="1">about to die</content>
+	<content contentuid="h35eea38fg12d5g4d05gba60ga770d8c65df5" version="1">On a successful Saving Throw, target still take half damage</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
