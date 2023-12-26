@@ -19,7 +19,7 @@
 	<content contentuid="hc220d2a0g3cdcg4690ga8fcge232c1f9bdd8" version="1">Sanguinary Projection</content>
 	<content contentuid="h4517bdfcg8707g4473g87cegcc8b97b3f9ef" version="1">Throws a blood jar onto a targeted surface, creating a blood-covered area. Creatures within this space become wet</content>
 	<content contentuid="hbbfeba37g414eg4e80g9454g574383b73261" version="1">Bloodletting Cure</content>
-	<content contentuid="h17b5623cg793ag4dd8g91f6gae8b05201c77" version="1">Intentionally draws blood to purges the target of blindness, paralysis, poisoning, and disease</content>
+	<content contentuid="h17b5623cg793ag4dd8g91f6gae8b05201c77" version="1">Intentionally draws blood to purges the target from disease, poison, paralysis or blindness. Target still takes [1] damage.</content>
 	<content contentuid="hd53766c4gaeafg40feg8491g79a03eba4f7b" version="1">Melt into Blood-toberemoved</content>
 	<content contentuid="h3f19ebd0g798eg47c0gaa8cg89da8afeca73" version="1">Invisible for one turn if you are on blood surface.</content>
 	<content contentuid="h62d62cefg35cfg4c22ga210gf587be1537ec" version="1">Anatomy</content>
