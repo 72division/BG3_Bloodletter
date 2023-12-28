@@ -7,7 +7,7 @@
 	<content contentuid="h466a88c0g9823g4502g9e1bg3a206be2ae2e" version="1">Open Wounds </content>
 	<content contentuid="h53d71224g5998g4e45g9337g5c0abc6c0e43" version="1">Cause bleeding </content>
 	<content contentuid="h5e350649g8cefg4c51gace6g169759891ec2" version="1">Sanguine Step</content>
-	<content contentuid="hb7c5647bgf13ag41a5ga7d1gc69449a8dfe8" version="1">Traverses to any available blood suface. This movement can be executed only when no enemies are within close range.</content>
+	<content contentuid="hb7c5647bgf13ag41a5ga7d1gc69449a8dfe8" version="1">Traverses to any available blood suface. This movement can be executed only when no enemies are within close range [1].</content>
 	<content contentuid="h6ebbf9c2gd1b0g4576gb557gd68abba66a8b" version="1">Anatomist</content>
 	<content contentuid="hb34138eag1342g4724g990bgb02380728616" version="1">You gain advantage on attack rolls when your target is bleeding or standing on a blood surface</content>
 	<content contentuid="hfdfd167cga769g4693gaf4cg56d9bd0557a6" version="1">Eye Dissection</content>
