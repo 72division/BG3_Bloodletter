@@ -2,7 +2,7 @@
 <contentList>
 	<content contentuid="h9bf7ef1ag3403g49b5ga9ceg54ab232af032" version="1">Bloodletter</content>
 	<content contentuid="h0da7b989gcbebg41ebgb9d5g038065b582ac" version="1">Master of bloodletting cure, scalpel, anatomy, autopsy </content>
-	<content contentuid="h41c3073ag493fg4e99gba94g769b4038f79d" version="1">Anatomy Kit</content>
+	<content contentuid="h41c3073ag493fg4e99gba94g769b4038f79d" version="1">Blood Essence</content>
 	<content contentuid="he921be69g7dd6g4254g8cffg7b109dfcae55" version="1">Bloodletter action resource </content>
 	<content contentuid="h466a88c0g9823g4502g9e1bg3a206be2ae2e" version="1">Open Wounds </content>
 	<content contentuid="h53d71224g5998g4e45g9337g5c0abc6c0e43" version="1">Cause bleeding </content>
@@ -34,7 +34,7 @@
 	<content contentuid="h041c62f9g5d3ag48f3gb1ceg62376a825e89" version="1">With the precision of an anatomist, you deploy this skill against undead foes. Selecting a target cadaver, you execute precise dissection and deals [1].</content>
 	<content contentuid="h51305266gc327g4472gaeddg75f0cf16ca1b" version="1">Death Pronouncement</content>
 	<content contentuid="h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e" version="1">Declares the impending demise of a wounded target with less than 50% health.</content>
-	<content contentuid="h27952cf8gbd40g4b8dg8555g8a199099b542" version="1">Death Pronounced</content>
+	<content contentuid="h27952cf8gbd40g4b8dg8555g8a199099b542" version="1">On Miss : Does not spend Blood Essence</content>
 	<content contentuid="h35eea38fg12d5g4d05gba60ga770d8c65df5" version="1">On a successful Saving Throw, target still take half damage</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
