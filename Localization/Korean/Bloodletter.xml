@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h9bf7ef1ag3403g49b5ga9ceg54ab232af032" version="1">블러드레터</content>
+	<content contentuid="h0da7b989gcbebg41ebgb9d5g038065b582ac" version="1">블러드레터는 해부학자이자 외과 전문가 입니다. 적의 출혈을 유도하고 상처입은 적, 전장의 피를 활용하여 싸웁니다.</content>
+	<content contentuid="h41c3073ag493fg4e99gba94g769b4038f79d" version="1">피의 정수</content>
+	<content contentuid="he921be69g7dd6g4254g8cffg7b109dfcae55" version="1">블러드레터의 기술에 사용되는 자원입니다.</content>
+	<content contentuid="h466a88c0g9823g4502g9e1bg3a206be2ae2e" version="1">Open Wounds </content>
+	<content contentuid="h53d71224g5998g4e45g9337g5c0abc6c0e43" version="1">Cause bleeding </content>
+	<content contentuid="h5e350649g8cefg4c51gace6g169759891ec2" version="1">핏빛 이동</content>
+	<content contentuid="hb7c5647bgf13ag41a5ga7d1gc69449a8dfe8" version="1">혈액의 흐름을 따라 범위 내 피 바닥으로 순간이동 합니다. 시전자 근처 1.5미터 내에 적이 없을때만 사용 가능합니다. </content>
+	<content contentuid="h6ebbf9c2gd1b0g4576gb557gd68abba66a8b" version="1">해부학자</content>
+	<content contentuid="hb34138eag1342g4724g990bgb02380728616" version="1">출혈중인 적에게 공격 시 이점을 받습니다.</content>
+	<content contentuid="hfdfd167cga769g4693gaf4cg56d9bd0557a6" version="1">안구 해부</content>
+	<content contentuid="he96bbce8g5a2bg4ee9gb87dgf2c268fce3d2" version="1">시체나 언데드의 안구를 해부하여 실명을 유발합니다.</content>
+	<content contentuid="h5a8d39ecge4c2g4626gbae5g2dbc609e676e" version="1">두개골 해부</content>
+	<content contentuid="hdb794390g6356g4b57g905cgf4c00b5f1b76" version="1">시체나 언데드의 두개골을 해부하여 기절을 유발합니다.</content>
+	<content contentuid="hafa5582egb351g406bga8dbg60a8c026673e" version="1">성대 해부</content>
+	<content contentuid="h2f714153g2180g4984gb571g588e1d4db670" version="1">시체나 언데드의 성대를 해부하여 침묵을 유발합니다.</content>
+	<content contentuid="hc220d2a0g3cdcg4690ga8fcge232c1f9bdd8" version="1">혈액 투척</content>
+	<content contentuid="h4517bdfcg8707g4473g87cegcc8b97b3f9ef" version="1">혈액을 투척하여 피 바닥을 생성합니다. 범위 내 대상은 젖음 상태가 됩니다.</content>
+	<content contentuid="hbbfeba37g414eg4e80g9454g574383b73261" version="1">사혈 치료</content>
+	<content contentuid="h17b5623cg793ag4dd8g91f6gae8b05201c77" version="1">의도적으로 출혈을 유발하여 나쁜 피를 배출합니다. 질병, 독, 기절, 실명을 치료하고 [1] 를 줍니다.</content>
+	<content contentuid="hd53766c4gaeafg40feg8491g79a03eba4f7b" version="1">Melt into Blood(to be removed) </content>
+	<content contentuid="h3f19ebd0g798eg47c0gaa8cg89da8afeca73" version="1">Invisible for one turn if you are on blood surface.</content>
+	<content contentuid="h62d62cefg35cfg4c22ga210gf587be1537ec" version="1">Anatomy</content>
+	<content contentuid="hef2493d1g41cbg443fgb7c0g46d88da323ad" version="1">gain passive bonus</content>
+	<content contentuid="h59913ddcgf289g476fg95e5gacb9763ab8ca" version="1">방혈 공격</content>
+	<content contentuid="h51a3d174gbca4g4a1cg83c6gefd01be7ca46" version="1">암습 후에 사용 가능한 &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleed&lt;/LSTag&gt; 을 유발하는 근접 공격. [1] 를 줍니다. </content>
+	<content contentuid="h24bb3288gbba3g43a6g9dc7gb7d3f971df81" version="1">Anatomy</content>
+	<content contentuid="hd2ed2759gd104g4a99ga31dg2f61d29e9812" version="1">Bloodletter deals additional damage equal to their Wisdom Modifier with weapon attacks.</content>
+	<content contentuid="h69578bcfg7462g41d0gadc8g9204e7b0dd0a" version="1">정밀 수술 </content>
+	<content contentuid="h376dca2dgafadg4f93g9b6dg3935c6c31e6d" version="1">Your Wisdom Modifier is added to your attack and damage roll when your target is bleeding or standing on a blood surface</content>
+	<content contentuid="h67a91ab0gcaaeg4d5bg974age89a10d44656" version="1">사체 해부</content>
+	<content contentuid="h041c62f9g5d3ag48f3gb1ceg62376a825e89" version="1">대상 언데드에게 사체 해부를 하여 [1] 를 줍니다. 의학 스킬 체크에 성공할 경우 추가적인 효과를 줍니다. 이 공격은 암습으로 판정합니다.</content>
+	<content contentuid="h51305266gc327g4472gaeddg75f0cf16ca1b" version="1">사망 선고</content>
+	<content contentuid="h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e" version="1">체력이 30%이하인 부상당한 적에게 의사로서 사망을 선고합니다.</content>
+	<content contentuid="h27952cf8gbd40g4b8dg8555g8a199099b542" version="1">On Miss : Does not spend Blood Essence</content>
+	<content contentuid="h35eea38fg12d5g4d05gba60ga770d8c65df5" version="1">내성굴림에 성공할 경우에는 절반의 피해를 입습니다.</content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+
+
+
+
+
+</contentList>
