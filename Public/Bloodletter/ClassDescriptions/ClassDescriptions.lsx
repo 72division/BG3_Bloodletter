@@ -15,7 +15,7 @@
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> This is a different table as the Main Class, as this one is specific to the subclass
                     <attribute id="SoundClassType" type="FixedString" value="Rogue"/>
-                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
                     <attribute id="UUID" type="guid" value="0cfae0ab-4ad6-444d-a3ad-22d6eeeec4ca"/> Make a unique UUID for the subclass
                 </node>
             </children>
