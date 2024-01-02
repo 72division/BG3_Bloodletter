@@ -1,2 +1,6 @@
-This is Bloodletter, homebrew rogue subclass MOD. 
-Bloodletter is specialized in sneak attacks and using blood. 
+# Bloodletter : A Rogue Subclass
+Bloodletter focuses on anatomical and surgical knowledge, excelling in causing and exploiting bleeding effects and utilizing blood surfaces
+
+## Cleas Features
+
+
