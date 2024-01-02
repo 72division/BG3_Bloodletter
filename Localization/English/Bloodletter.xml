@@ -33,9 +33,9 @@
 	<content contentuid="h67a91ab0gcaaeg4d5bg974age89a10d44656" version="1">Cadaveric Dissection </content>
 	<content contentuid="h041c62f9g5d3ag48f3gb1ceg62376a825e89" version="1">Selecting a target undead, you execute precise dissection and deals [1]. This is considered a sneak attack.</content>
 	<content contentuid="h51305266gc327g4472gaeddg75f0cf16ca1b" version="1">Death Pronouncement</content>
-	<content contentuid="h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e" version="1">Declares the impending demise of a wounded target with less than 50% health.</content>
+	<content contentuid="h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e" version="1">Declares the impending demise of a wounded target with less than 25% health.</content>
 	<content contentuid="h27952cf8gbd40g4b8dg8555g8a199099b542" version="1">On Miss : Does not spend Blood Essence</content>
-	<content contentuid="h35eea38fg12d5g4d05gba60ga770d8c65df5" version="1">On a successful Saving Throw, target still take half damage</content>
+	<content contentuid="h35eea38fg12d5g4d05gba60ga770d8c65df5" version="1">On a successful Saving Throw, target still take half damage.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
