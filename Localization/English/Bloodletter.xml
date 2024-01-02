@@ -9,7 +9,7 @@
 	<content contentuid="h5e350649g8cefg4c51gace6g169759891ec2" version="1">Sanguine Step</content>
 	<content contentuid="hb7c5647bgf13ag41a5ga7d1gc69449a8dfe8" version="1">Traverses to any available blood surface. This movement can be executed only when no enemies are within 1.5m.</content>
 	<content contentuid="h6ebbf9c2gd1b0g4576gb557gd68abba66a8b" version="1">Anatomist</content>
-	<content contentuid="hb34138eag1342g4724g990bgb02380728616" version="1">You gain  &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on attack rolls when your target is bleeding and gain proficiency in </content>
+	<content contentuid="hb34138eag1342g4724g990bgb02380728616" version="1">You gain  &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on attack rolls when your target is bleeding and gain  &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with Medicine.</content>
 	<content contentuid="hfdfd167cga769g4693gaf4cg56d9bd0557a6" version="1">Eye Dissection</content>
 	<content contentuid="he96bbce8g5a2bg4ee9gb87dgf2c268fce3d2" version="1">With your autopsy and anatomical expertise, dissect eyes from the dead body.</content>
 	<content contentuid="h5a8d39ecge4c2g4626gbae5g2dbc609e676e" version="1">Brain Dissection</content>
