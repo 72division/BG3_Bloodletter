@@ -4,10 +4,10 @@
     <region id="Progressions">
         <node id="root">
             <children>
-                <node id="Progression"> Mainclass Level 1
-                    <attribute id="Level" type="uint8" value="3"/> Class Level for this entry
-                    <attribute id="Name" type="LSString" value="Rogue"/> Name of the class, keep it consistent with class description
-                    <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
+                <node id="Progression"> Main Level 1
+                    <attribute id="Level" type="uint8" value="3"/> 
+                    <attribute id="Name" type="LSString" value="Rogue"/> 
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
                     <attribute id="TableUUID" type="guid" value="9a44e828-92db-4d6c-acbc-a4f8ef340415"/>
                     <attribute id="UUID" type="guid" value="6f8d3e70-9b20-4fe0-914f-0f8f19206329"/>
 					<children>
@@ -30,48 +30,48 @@
                     </children>
                 </node>
 
-				<node id="Progression"> Subclass Level 3
+				<node id="Progression"> Level 3
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
+                    <attribute id="ProgressionType" type="uint8" value="1"/> 
                     <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,3,0)"/>
                     <attribute id="PassivesAdded" type="LSString" value="Unlock_BloodStep;Bloodletter_Anatomist;Unlock_Phlebotomy_Other;Unlock_MedicineProficiency_Bloodletter"/>
-                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value="94c4d083-da3e-416d-8c60-2df6d88115a7"/> Give it a Unique UUID
+                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
+                    <attribute id="UUID" type="guid" value="94c4d083-da3e-416d-8c60-2df6d88115a7"/> 
                 </node>
-				<node id="Progression"> Subclass Level 4
+				<node id="Progression"> Level 4
                     <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
+                    <attribute id="ProgressionType" type="uint8" value="1"/> s
                     <attribute id="PassivesAdded" type="LSString" value="Unlock_Throw_BloodBag"/>
-                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value="fd1b820e-cdf8-47a7-8683-34bc0dc107b7"/> Give it a Unique UUID
+                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
+                    <attribute id="UUID" type="guid" value="fd1b820e-cdf8-47a7-8683-34bc0dc107b7"/> 
                 </node>
-				<node id="Progression"> Subclass Level 5
+				<node id="Progression"> Level 5
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
+                    <attribute id="ProgressionType" type="uint8" value="1"/> 
                     <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/>
-                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
+                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
                     <attribute id="PassivesAdded" type="LSString" value="Unlock_BloodlettingSneakAttack"/>
-                    <attribute id="UUID" type="guid" value="b1171f77-b124-41c8-b741-7f648f97ec8b"/> Give it a Unique UUID
+                    <attribute id="UUID" type="guid" value="b1171f77-b124-41c8-b741-7f648f97ec8b"/> 
                 </node>
-                <node id="Progression"> Subclass Level 6
+                <node id="Progression"> Level 6
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
+                    <attribute id="ProgressionType" type="uint8" value="1"/> 
                     <attribute id="PassivesAdded" type="LSString" value="Unlock_Dissect_Container"/>
-                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value="9cadbcde-a3c8-4b1d-ac9b-621b55211b30"/> Give it a Unique UUID
+                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
+                    <attribute id="UUID" type="guid" value="9cadbcde-a3c8-4b1d-ac9b-621b55211b30"/> 
                 </node>
-                <node id="Progression"> Subclass Level 9
+                <node id="Progression"> Level 9
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
+                    <attribute id="ProgressionType" type="uint8" value="1"/> 
                     <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/>
                     <attribute id="PassivesAdded" type="LSString" value="Unlock_Death_Pronouncement"/>
-                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value="b03c3691-a3d0-4cea-8cbe-5c4df0db7811"/> Give it a Unique UUID
+                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
+                    <attribute id="UUID" type="guid" value="b03c3691-a3d0-4cea-8cbe-5c4df0db7811"/> 
                 </node>
             </children>
         </node>
