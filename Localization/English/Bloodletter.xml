@@ -6,15 +6,15 @@
 	<content contentuid="he921be69g7dd6g4254g8cffg7b109dfcae55" version="1">Blood Essence fuels the Bloodletter's surgical and bleeding-inflicting skills, serving as the vital source of precision and lethality.</content>
 	<content contentuid="h466a88c0g9823g4502g9e1bg3a206be2ae2e" version="1">Open Wounds </content>
 	<content contentuid="h53d71224g5998g4e45g9337g5c0abc6c0e43" version="1">Cause bleeding </content>
-	<content contentuid="h5e350649g8cefg4c51gace6g169759891ec2" version="1">Sanguine Step</content>
+	<content contentuid="h5e350649g8cefg4c51gace6g169759891ec2" version="1">Crimson Blink</content>
 	<content contentuid="hb7c5647bgf13ag41a5ga7d1gc69449a8dfe8" version="1">Traverses to any available blood surface. This movement can be executed only when no enemies are within 1.5m.</content>
 	<content contentuid="h6ebbf9c2gd1b0g4576gb557gd68abba66a8b" version="1">Anatomist</content>
 	<content contentuid="hb34138eag1342g4724g990bgb02380728616" version="1">You gain  &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on attack rolls when your target is bleeding and gain  &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with Medicine.</content>
-	<content contentuid="hfdfd167cga769g4693gaf4cg56d9bd0557a6" version="1">Eye Dissection</content>
+	<content contentuid="hfdfd167cga769g4693gaf4cg56d9bd0557a6" version="1">Optics Dissection</content>
 	<content contentuid="he96bbce8g5a2bg4ee9gb87dgf2c268fce3d2" version="1">With your autopsy and anatomical expertise, dissect eyes from the dead body.</content>
-	<content contentuid="h5a8d39ecge4c2g4626gbae5g2dbc609e676e" version="1">Brain Dissection</content>
+	<content contentuid="h5a8d39ecge4c2g4626gbae5g2dbc609e676e" version="1">Cerebrum Dissection</content>
 	<content contentuid="hdb794390g6356g4b57g905cgf4c00b5f1b76" version="1">With your autopsy and anatomical expertise, dissect brain from the dead body.</content>
-	<content contentuid="hafa5582egb351g406bga8dbg60a8c026673e" version="1">Larynx Dissection</content>
+	<content contentuid="hafa5582egb351g406bga8dbg60a8c026673e" version="1">Vocalis Dissection</content>
 	<content contentuid="h2f714153g2180g4984gb571g588e1d4db670" version="1">With your autopsy and anatomical expertise, dissect larynx from the dead body.</content>
 	<content contentuid="hc220d2a0g3cdcg4690ga8fcge232c1f9bdd8" version="1">Sanguinary Projection</content>
 	<content contentuid="h4517bdfcg8707g4473g87cegcc8b97b3f9ef" version="1">Throws a blood jar onto a targeted surface, creating a blood-covered area. Creatures within this space become wet.</content>
@@ -28,32 +28,14 @@
 	<content contentuid="h51a3d174gbca4g4a1cg83c6gefd01be7ca46" version="1">Following a successful sneak attack, you seamlessly transition into a melee strike potentially causing &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleed&lt;/LSTag&gt; and deals [1]</content>
 	<content contentuid="h24bb3288gbba3g43a6g9dc7gb7d3f971df81" version="1">Anatomy</content>
 	<content contentuid="hd2ed2759gd104g4a99ga31dg2f61d29e9812" version="1">Bloodletter deals additional damage equal to their Wisdom Modifier with weapon attacks.</content>
-	<content contentuid="h69578bcfg7462g41d0gadc8g9204e7b0dd0a" version="1">Surgical Precision </content>
+	<content contentuid="h69578bcfg7462g41d0gadc8g9204e7b0dd0a" version="1">Surgical Precision</content>
 	<content contentuid="h376dca2dgafadg4f93g9b6dg3935c6c31e6d" version="1">Your Wisdom Modifier is added to your attack and damage roll when your target is bleeding or standing on a blood surface</content>
-	<content contentuid="h67a91ab0gcaaeg4d5bg974age89a10d44656" version="1">Cadaveric Dissection </content>
+	<content contentuid="h67a91ab0gcaaeg4d5bg974age89a10d44656" version="1">Autopsy Undead</content>
 	<content contentuid="h041c62f9g5d3ag48f3gb1ceg62376a825e89" version="1">Selecting a target undead, you execute precise dissection and deals [1]. This is considered a sneak attack.</content>
 	<content contentuid="h51305266gc327g4472gaeddg75f0cf16ca1b" version="1">Death Pronouncement</content>
 	<content contentuid="h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e" version="1">Declares the impending demise of a wounded target with less than 25% health.</content>
 	<content contentuid="h27952cf8gbd40g4b8dg8555g8a199099b542" version="1">On Miss : Does not spend Blood Essence</content>
 	<content contentuid="h35eea38fg12d5g4d05gba60ga770d8c65df5" version="1">On a successful Saving Throw, target still take half damage.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-
-
 
 
 
