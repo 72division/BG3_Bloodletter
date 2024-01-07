@@ -7,12 +7,12 @@ Bloodletter focuses on anatomical and surgical knowledge, excelling in causing a
 
 ### Level 3
 Passive : Anatomist, Blood Essence(2 Max)   
-Class Action : Sanguine Step, Bloodletting
+Class Action : Crimson Blink, Bloodletting
 
 > #### **Anatomist**
 > You gain Advantage on attack rolls when your target is bleeding and gain Proficiency Bonus with Medicine skill.
 
-> #### **Sanguine Step**
+> #### **Crimson Blink**
 > Traverses to any available blood surface. This movement can be executed only when no enemies are within 1.5m.
 
 > #### **Bloodletting**
@@ -20,7 +20,7 @@ Class Action : Sanguine Step, Bloodletting
 
 
 ### Level 4
-Class Action : Projection Blood   
+Class Action : Sanguinary Projection  
 
 > #### **Sanguinary Projection**
 > Throws a blood jar onto a targeted surface, creating a blood-covered area. Creatures within this space become wet.
@@ -31,17 +31,17 @@ Passive : Blood Essence(3 Max)
 Class Action : Exsanguinating Strike   
 
 > #### **Exsanguinating Strike** 
-> Following a successful sneak attack, you seamlessly transition into a melee strike potentially causing Bleeding and deals additional necrotic damage (Proficiency Bonus + Wisdom Modifier). 
+> Following a sneak attack, you seamlessly transition into a melee strike potentially causing Bleeding and deals additional necrotic damage (Proficiency Bonus + Wisdom Modifier). 
 
 
 ### Level 6   
-Class Action : Cadaveric Dissection   
+Class Action : Autopsy Undead  
 
-> #### **Cadaveric Dissection**   
-> Selecting a target undead, you execute precise dissection and deals additional 3d6 force damage. This is considered a sneak attack.
-> * Eye Dissection : Blind for 2 turns
-> * Larynx Dissection : Silence for 2 turns
-> * Brain Dissection : Stun for 2 turns
+> #### **Autopsy Undead**  
+> With a successful Medicine check on a DC 10, you dissect the bodies of the target undead, uncover hidden vulnerabilities and deals additional 3d6 force damage. This is considered a sneak attack. 
+> * Optics Dissection : Blind for 2 turns
+> * Vocalis Dissection : Silence for 2 turns
+> * Cerebrum Dissection : Stun for 2 turns
 
 ### Level 9   
 Passive : Blood Essence(4 Max)   
