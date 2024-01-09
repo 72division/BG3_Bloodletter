@@ -6,9 +6,9 @@ This subclass provides a conditional extra attack, amplifying the rogue's offens
 Bloodletter focuses on anatomical and surgical knowledge, excelling in causing and exploiting bleeding effects and utilizing blood surfaces.
 
 ## Translations
-Korean : https://www.nexusmods.com/baldursgate3/mods/5739
-French(credit: sewayn) : https://www.nexusmods.com/baldursgate3/mods/5780
-I appreciate and invite contributions for translations in any language.
+Korean : https://www.nexusmods.com/baldursgate3/mods/5739    
+French(credit: sewayn) : https://www.nexusmods.com/baldursgate3/mods/5780    
+I appreciate and invite contributions for translations in any language.    
 
 ## Level Progression
 
@@ -59,12 +59,11 @@ Class Action : Death Pronouncement
 
 
 ## Requirements
-### [ImprovedUI] (https://github.com/TheRealDjmr/BG3ImprovedUI)
-ImprovedUI Assets version 3.16.3 (or higher) is required to display class & resource icons.
-### [Compatibility Framework] (https://github.com/BG3-Community-Library-Team/BG3-Compatibility-Framework)
+[ImprovedUI](https://github.com/TheRealDjmr/BG3ImprovedUI) Assets version 3.16.3 (or higher) is required to display class & resource icons.   
+[Compatibility Framework](https://github.com/BG3-Community-Library-Team/BG3-Compatibility-Framework)
 
 ## Credits
-TheRealDjmr for supporting ImprovedUI integration
-Lykon for [Baldur's Gate 3 Class Icons LoRA] (https://civitai.com/models/133406?modelVersionId=146841)
+TheRealDjmr for supporting ImprovedUI integration   
+Lykon for [Baldur's Gate 3 Class Icons LoRA](https://civitai.com/models/133406?modelVersionId=146841)
 
 
