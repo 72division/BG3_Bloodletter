@@ -7,7 +7,7 @@ Bloodletter focuses on anatomical and surgical knowledge, excelling in causing a
 
 ## Translations
 Korean : https://www.nexusmods.com/baldursgate3/mods/5739    
-French(credit: sewayn) : https://www.nexusmods.com/baldursgate3/mods/5780    
+French(by *sewayn*) : https://www.nexusmods.com/baldursgate3/mods/5780    
 I appreciate and invite contributions for translations in any language.    
 
 ## Level Progression
