@@ -3,12 +3,12 @@
 # Bloodletter : A Rogue Subclass
 Introducing the Bloodletter, a subclass MOD for Baldur's Gate 3 designed to enhance the combat prowess of rogues.
 This subclass provides a conditional extra attack, amplifying the rogue's offensive capabilities. Harness the power of blood surfaces strategically to gain an edge in battle. Specialized in inflicting bleeding effects, the Bloodletter excels in combat against bleeding creatures, offering a tactical experience for players seeking a heightened rogue gameplay. 
-Bloodletter focuses on anatomical and surgical knowledge, excelling in causing and exploiting bleeding effects and utilizing blood surfaces.
+Bloodletter focuses on anatomical and surgical knowledge, excelling in causing and exploiting bleeding effects and utilizing blood surfaces.   
 
 ## Translations
-Korean : https://www.nexusmods.com/baldursgate3/mods/5739    
-French(by *sewayn*) : https://www.nexusmods.com/baldursgate3/mods/5780    
-I appreciate and invite contributions for translations in any language.    
+#### * English (Main file) : https://www.nexusmods.com/baldursgate3/mods/5018   
+##### * Korean : https://www.nexusmods.com/baldursgate3/mods/5739    
+##### * French (by *sewayn*) : https://www.nexusmods.com/baldursgate3/mods/5780    
 
 ## Level Progression
 
