@@ -6,14 +6,14 @@ Bloodletter focuses on anatomical and surgical knowledge, excelling in causing a
 ## Level Progression
 
 ### Level 3
-Passive : Anatomist, Blood Essence(2 Max)   
+Passive : Anatomist, Blood Essence(3 Max)   
 Class Action : Crimson Blink, Bloodletting
 
 > #### **Anatomist**
 > You gain Advantage on attack rolls when your target is bleeding and gain Proficiency Bonus with Medicine skill.
 
 > #### **Crimson Blink**
-> Traverses to any available blood surface. This movement can be executed only when no enemies are within 1.5m.
+> Traverses to any available blood surface. This movement can`t executed when you are Threatened.
 
 > #### **Bloodletting**
 > With a successful Medicine check on a DC 10, the Bloodletting skill deliberately draws blood, offering dual effects based on the target: if an enemy, it inflicts Bleeding; if an ally, it purges the target from disease, poison, paralysis, and blindness instead.

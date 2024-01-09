@@ -5,7 +5,7 @@
 	<content contentuid="h41c3073ag493fg4e99gba94g769b4038f79d" version="1">Blood Essence</content>
 	<content contentuid="he921be69g7dd6g4254g8cffg7b109dfcae55" version="1">Blood Essence fuels the Bloodletter's surgical and bleeding-inflicting skills, serving as the vital source of precision and lethality.</content>
 	<content contentuid="h5e350649g8cefg4c51gace6g169759891ec2" version="1">Crimson Blink</content>
-	<content contentuid="hb7c5647bgf13ag41a5ga7d1gc69449a8dfe8" version="1">Traverses to any available blood surface. This movement can be executed only when no enemies are within 1.5m.</content>
+	<content contentuid="hb7c5647bgf13ag41a5ga7d1gc69449a8dfe8" version="1">Traverses to any available blood surface. This movement can`t be executed when &lt;LSTag Type="Status" Tooltip="FLANKED"&gt;Threatened&lt;/LSTag&gt;.</content>
 	<content contentuid="h6ebbf9c2gd1b0g4576gb557gd68abba66a8b" version="1">Anatomist</content>
 	<content contentuid="hb34138eag1342g4724g990bgb02380728616" version="1">You gain  &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on attack rolls when your target is bleeding and gain  &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with Medicine.</content>
 	<content contentuid="hfdfd167cga769g4693gaf4cg56d9bd0557a6" version="1">Optics Dissection</content>
@@ -22,8 +22,8 @@
 	<content contentuid="h3f19ebd0g798eg47c0gaa8cg89da8afeca73" version="1">Invisible for one turn if you are on blood surface.</content>
 	<content contentuid="h59913ddcgf289g476fg95e5gacb9763ab8ca" version="1">Exsanguinating Strike</content>
 	<content contentuid="h51a3d174gbca4g4a1cg83c6gefd01be7ca46" version="1">Following a successful sneak attack, you seamlessly transition into a melee strike potentially causing &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleed&lt;/LSTag&gt; and deals [1]</content>
-	<content contentuid="h24bb3288gbba3g43a6g9dc7gb7d3f971df81" version="1">Anatomy</content>
-	<content contentuid="hd2ed2759gd104g4a99ga31dg2f61d29e9812" version="1">Bloodletter deals additional damage equal to their Wisdom Modifier with weapon attacks.</content>
+	<content contentuid="h24bb3288gbba3g43a6g9dc7gb7d3f971df81" version="3">Blood Essence : [3]</content>
+	<content contentuid="hd2ed2759gd104g4a99ga31dg2f61d29e9812" version="2">You have [3]. They fuel your Bloodletter skills and are expended upon use. You regain expended Blood Essence after a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="h67a91ab0gcaaeg4d5bg974age89a10d44656" version="1">Autopsy Undead</content>
 	<content contentuid="h041c62f9g5d3ag48f3gb1ceg62376a825e89" version="1">Selecting a target undead, you execute precise dissection and deals [1]. This is considered a sneak attack.</content>
 	<content contentuid="h51305266gc327g4472gaeddg75f0cf16ca1b" version="1">Death Pronouncement</content>

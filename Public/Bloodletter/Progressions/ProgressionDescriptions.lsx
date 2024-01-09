@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hd2ed2759gd104g4a99ga31dg2f61d29e9812" version="2"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="h24bb3288gbba3g43a6g9dc7gb7d3f971df81" version="3"/>
+          <attribute id="ParamMatch" type="FixedString" value="0:BloodDie"/>
+          <attribute id="Type" type="FixedString" value="ActionResource"/>
+          <attribute id="ProgressionTableId" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
+          <attribute id="UUID" type="guid" value="eed9f319-7af3-4cc4-be00-5dccb9d0e2d1"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

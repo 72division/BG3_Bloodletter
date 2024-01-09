@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Bloodletter_Spells_Lv3"/>
+                    <attribute id="Spells" type="LSString" value="Target_BloodStep;Target_Phlebotomy_Other"/>
+                    <attribute id="UUID" type="guid" value="02c693ec-ab7a-4adf-a4d2-106ed5f76e25"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Bloodletter_Spells_Lv4"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Throw_BloodBag"/>
+                    <attribute id="UUID" type="guid" value="31f7f5ec-0b5b-464d-a25e-958ac001ed13"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Bloodletter_Spells_Lv5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Bloodletter_SneakAttack"/>
+                    <attribute id="UUID" type="guid" value="6344d185-b27d-477e-a036-f94dabf1c853"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Bloodletter_Spells_Lv6"/>
+                    <attribute id="Spells" type="LSString" value="Target_Dissect_Container"/>
+                    <attribute id="UUID" type="guid" value="a7b31ddd-004b-4561-b57d-b3c562072220"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Bloodletter_Spells_Lv9"/>
+                    <attribute id="Spells" type="LSString" value="Target_Bloodletter_Death_Pronouncement"/>
+                    <attribute id="UUID" type="guid" value="1c938274-cf0b-4262-b628-570b4b007643"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
