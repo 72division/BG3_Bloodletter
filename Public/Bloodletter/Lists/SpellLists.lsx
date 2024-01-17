@@ -6,17 +6,17 @@
             <children>
 				<node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Bloodletter_Spells_Lv3"/>
-                    <attribute id="Spells" type="LSString" value="Target_BloodStep;Target_Phlebotomy_Other"/>
+                    <attribute id="Spells" type="LSString" value="Target_BloodStep;Target_Phlebotomy_Other;HandOfBlood_Bloodletter;Projectile_Throw_BloodBag;Target_Bloodletter_SneakAttack"/>
                     <attribute id="UUID" type="guid" value="02c693ec-ab7a-4adf-a4d2-106ed5f76e25"/>
                 </node>
 				<node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Bloodletter_Spells_Lv4"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_Throw_BloodBag"/>
+                    <attribute id="Spells" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="31f7f5ec-0b5b-464d-a25e-958ac001ed13"/>
                 </node>
 				<node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Bloodletter_Spells_Lv5"/>
-                    <attribute id="Spells" type="LSString" value="Target_Bloodletter_SneakAttack"/>
+                    <attribute id="Spells" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="6344d185-b27d-477e-a036-f94dabf1c853"/>
                 </node>
                 <node id="SpellList">
