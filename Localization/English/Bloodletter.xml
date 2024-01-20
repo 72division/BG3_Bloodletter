@@ -30,7 +30,7 @@
 	<content contentuid="h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e" version="1">Declares the impending demise of a wounded target with less than 25% health.</content>
 	<content contentuid="h27952cf8gbd40g4b8dg8555g8a199099b542" version="1">On Miss : Does not spend Blood Essence</content>
 	<content contentuid="h35eea38fg12d5g4d05gba60ga770d8c65df5" version="1">On a successful Saving Throw, target still take half damage.</content>
-	<content contentuid="he4342ed9g2b6dg4d07gaa91g82482eb2874b" version="1">Excessive Bleeding</content>
+	<content contentuid="he4342ed9g2b6dg4d07gaa91g82482eb2874b" version="1">Severe Bleeding</content>
 	<content contentuid="h0cceeab0gf30fg40degbb21g998d8199e50b" version="1">Takes [1] at the start of each turn and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Removed by healing.</content>
 	<content contentuid="h2c6044a9g1e74g4b6ag9649g90192db9a7b0" version="1">%%% Excessvie Bleeding damage</content>
 	<content contentuid="h64094245gc7feg45c9gb49ege62e4d820012" version="1">Blood Tracing Aura</content>
