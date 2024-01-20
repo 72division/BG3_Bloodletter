@@ -33,9 +33,9 @@
 	<content contentuid="he4342ed9g2b6dg4d07gaa91g82482eb2874b" version="1">Excessive Bleeding</content>
 	<content contentuid="h0cceeab0gf30fg40degbb21g998d8199e50b" version="1">Takes [1] at the start of each turn and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Removed by healing.</content>
 	<content contentuid="h2c6044a9g1e74g4b6ag9649g90192db9a7b0" version="1">%%% Excessvie Bleeding damage</content>
-	<content contentuid="h64094245gc7feg45c9gb49ege62e4d820012" version="1">Hemophilic Aura</content>
-	<content contentuid="he687acafg45e9g4ddfg8b3eg5c2ce759ee21" version="1">Hemophilic Aura description</content>
-	<content contentuid="h707bff99gf714g4d8dga4eeg87fbd72eae53" version="1">Hemophilic Aura</content>
-	<content contentuid="hf742d0d0g8db6g45aegb22fg5c290e55303f" version="1">gain additional damage against Slashing damage </content>
+	<content contentuid="h64094245gc7feg45c9gb49ege62e4d820012" version="1">Blood Tracing Aura</content>
+	<content contentuid="he687acafg45e9g4ddfg8b3eg5c2ce759ee21" version="1">Blood Tracer Aura marks any foes that come into contact with blood puddles within an 18m radius, potentially revealing the presence of invisible foes.</content>
+	<content contentuid="h707bff99gf714g4d8dga4eeg87fbd72eae53" version="1">Blood Traced</content>
+	<content contentuid="hf742d0d0g8db6g45aegb22fg5c290e55303f" version="1">This creature, standing on a blood puddle, is being traced by the Bloodletter, potentially revealing the concealed presence of blood in invisible foes.</content>
 
 </contentList>
