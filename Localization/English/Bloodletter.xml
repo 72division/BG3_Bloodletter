@@ -37,5 +37,16 @@
 	<content contentuid="he687acafg45e9g4ddfg8b3eg5c2ce759ee21" version="1">Blood Tracer Aura marks any foes that come into contact with blood puddles within an 18m radius, potentially revealing the presence of invisible foes.</content>
 	<content contentuid="h707bff99gf714g4d8dga4eeg87fbd72eae53" version="1">Blood Traced</content>
 	<content contentuid="hf742d0d0g8db6g45aegb22fg5c290e55303f" version="1">This creature, standing on a blood puddle, is being traced by the Bloodletter, potentially revealing the concealed presence of blood in invisible foes.</content>
+	<content contentuid="h808ab747g0da4g46d4gabd4g0ada75afbd0d" version="1">Bloodbane Corruption</content>
+	<content contentuid="h72622bfeg60d6g4491ga903g4dd57f18298f" version="1">Corrupts blood puddles, deals [1] on any foes standing on blood surfaces and applies &lt;LSTag Type="Status" Tooltip="POISON_BLOOD_CORRUPTION_BLOODLETTER"&gt;Corrupted Blood&lt;/LSTag&gt;. Targets with the &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleeding&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="SEVERE_BLEEDING_BLOODLETTER"&gt;Severe Bleeding&lt;/LSTag&gt; status suffer an additional [2]</content>
+	<content contentuid="h2cfaad23g440ag48e0gb906g065bcaff26f2" version="1">Corrupted Blood</content>
+	<content contentuid="hf8dd15f8g81f8g4f52gbc54gbcdf631cbd58" version="1">Disadvantage on attack roll and take 1d8 poison damage.</content>
+	<content contentuid="hcdad3dedg6fb2g4d10g9543g0ff1f91ae9a3" version="1">First Blood</content>
+	<content contentuid="hf3370b56g6516g4364gb276ge060eab16c4c" version="1">Upon landing a successful attack on a full-health enemy, the Bloodletter splatters blood, creating a blood surface at the point of impact.</content>
+	<content contentuid="hbee4faecg72d1g4ad5ga0c3gfdc003800ada" version="1"> </content>
+	<content contentuid="hc52391fag4f7dg41c7gbce9gaf09b2179980" version="1"> </content>
+
+
+
 
 </contentList>
