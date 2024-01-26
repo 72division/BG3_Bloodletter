@@ -35,7 +35,7 @@
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> 
                     <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,3,0)"/>
-                    <attribute id="PassivesAdded" type="LSString" value="First_Blood_Bloodletter;Bloodletter_Anatomist;Unlock_MedicineProficiency_Bloodletter;SiphonBlood_Bloodletter;Aura_Of_Hemophilia_Bloodletter;First_Blood_Bloodletter"/> 
+                    <attribute id="PassivesAdded" type="LSString" value="First_Blood_Bloodletter;Bloodletter_Anatomist;Unlock_MedicineProficiency_Bloodletter;Aura_Of_Hemophilia_Bloodletter"/> 
                     <attribute id="Selectors" type="LSString" value="AddSpells(02c693ec-ab7a-4adf-a4d2-106ed5f76e25)"/>
                     <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
                     <attribute id="UUID" type="guid" value="94c4d083-da3e-416d-8c60-2df6d88115a7"/> 
@@ -60,10 +60,28 @@
                 <node id="Progression"> Level 6
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/> 
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/> 
                     <attribute id="Selectors" type="LSString" value="AddSpells(a7b31ddd-004b-4561-b57d-b3c562072220)"/>
                     <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
                     <attribute id="UUID" type="guid" value="9cadbcde-a3c8-4b1d-ac9b-621b55211b30"/> 
+                </node>
+                <node id="Progression"> Level 7
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Bloodletter"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/> 
+                    <attribute id="Selectors" type="LSString" value="AddSpells()"/>
+                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
+                    <attribute id="UUID" type="guid" value="b43adbb9-001a-48f0-92e7-5b79c1dbbb34"/> 
+                </node>
+                <node id="Progression"> Level 8
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="Bloodletter"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells()"/>
+                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
+                    <attribute id="UUID" type="guid" value="bea30fb5-3f8e-4ba8-ab39-a8120a0ec2ad"/> 
                 </node>
                 <node id="Progression"> Level 9
                     <attribute id="Level" type="uint8" value="9"/>
@@ -73,6 +91,32 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(1c938274-cf0b-4262-b628-570b4b007643)"/>
                     <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
                     <attribute id="UUID" type="guid" value="b03c3691-a3d0-4cea-8cbe-5c4df0db7811"/> 
+                </node>
+                <node id="Progression"> Level 10
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="Bloodletter"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells()"/>
+                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
+                    <attribute id="UUID" type="guid" value="d5d3065d-8c59-4014-9356-281465d2b9e2"/> 
+                </node>
+                <node id="Progression"> Level 11
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Bloodletter"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/> 
+                    <attribute id="Selectors" type="LSString" value="AddSpells()"/>
+                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
+                    <attribute id="UUID" type="guid" value="6172b710-bbc3-462c-853a-8063890e5474"/> 
+                </node>
+                <node id="Progression"> Level 12
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="Bloodletter"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells()"/>
+                    <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
+                    <attribute id="UUID" type="guid" value="d2d8127d-7ab3-42e8-9fbb-6891b851a45d"/> 
                 </node>
             </children>
         </node>
