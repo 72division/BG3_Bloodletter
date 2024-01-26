@@ -35,7 +35,7 @@
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> 
                     <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,3,0)"/>
-                    <attribute id="PassivesAdded" type="LSString" value="First_Blood_Bloodletter;Bloodletter_Anatomist;Unlock_MedicineProficiency_Bloodletter;Aura_Of_Hemophilia_Bloodletter"/> 
+                    <attribute id="PassivesAdded" type="LSString" value="First_Blood_Bloodletter;Bloodletter_Anatomist;Unlock_MedicineProficiency_Bloodletter;Aura_Of_Hemophilia_Bloodletter;Surgical_Precision_Bloodletter;SiphonBlood_Bloodletter"/> 
                     <attribute id="Selectors" type="LSString" value="AddSpells(02c693ec-ab7a-4adf-a4d2-106ed5f76e25)"/>
                     <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
                     <attribute id="UUID" type="guid" value="94c4d083-da3e-416d-8c60-2df6d88115a7"/> 
