@@ -14,7 +14,7 @@ data "DescriptionParams" "DealDamage(8d6, Necrotic);DealDamage(3d6, Necrotic);PO
 data "TooltipDamageList" "DealDamage(8d6, Necrotic);DealDamage(3d6, Necrotic)"
 data "TooltipAttackSave" "Constitution"
 data "TooltipStatusApply" "ApplyStatus(POISON_BLOOD_CORRUPTION_BLOODLETTER,100,2)"
-data "TooltipOnSave" "h6b91b26ege28eg4e21g9864g612e648b3226"
+data "TooltipOnSave" "h35eea38fg12d5g4d05gba60ga770d8c65df5"
 data "CastSound" "Spell_Cast_Damage_Necrotic_ArmsOfHadar_L1to3"
 data "TargetSound" "Spell_Impact_Damage_Necrotic_ArmsOfHadar_L1to3"
 data "CastTextEvent" "Cast"
