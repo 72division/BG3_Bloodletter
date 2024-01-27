@@ -22,7 +22,7 @@ data "Properties" "Highlighted"
 data "Icon" "PassiveFeature_DiscipleOfLife"
 data "StatsFunctorContext" "OnSurfaceEnter"
 data "Conditions" "InSurface('SurfaceBlood',context.Source)"
-data "StatsFunctors" "IF(not HasMaxHP()):RegainHitPoints(ProficiencyBonus);IF(not HasMaxHP()):GROUND:CreateSurface(1,-1,None)"
+data "StatsFunctors" "RegainHitPoints(ProficiencyBonus);GROUND:CreateSurface(1,-1,None)"
 
 new entry "Aura_Of_Hemophilia_Bloodletter"
 type "PassiveData"
