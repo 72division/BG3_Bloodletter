@@ -62,7 +62,6 @@
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/> 
                     <attribute id="Selectors" type="LSString" value="AddSpells(a7b31ddd-004b-4561-b57d-b3c562072220)"/>
                     <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
                     <attribute id="UUID" type="guid" value="9cadbcde-a3c8-4b1d-ac9b-621b55211b30"/> 
@@ -71,6 +70,7 @@
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(700b5fb6-56f0-454c-8c9c-1a2696f42349)"/>
                     <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
                     <attribute id="UUID" type="guid" value="b43adbb9-001a-48f0-92e7-5b79c1dbbb34"/> 
@@ -80,7 +80,6 @@
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> 
                     <attribute id="PassivesAdded" type="LSString" value="Surgical_Precision_Bloodletter"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(59892854-996e-4227-8685-48453ce100e7)"/>
                     <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
                     <attribute id="UUID" type="guid" value="bea30fb5-3f8e-4ba8-ab39-a8120a0ec2ad"/> 
@@ -98,7 +97,6 @@
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> 
-                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells()"/>
                     <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
                     <attribute id="UUID" type="guid" value="d5d3065d-8c59-4014-9356-281465d2b9e2"/> 
@@ -108,6 +106,7 @@
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> 
                     <attribute id="Selectors" type="LSString" value="AddSpells()"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
                     <attribute id="UUID" type="guid" value="6172b710-bbc3-462c-853a-8063890e5474"/> 
                 </node>
@@ -115,7 +114,6 @@
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="Bloodletter"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> 
-                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodDie,1,0)"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells()"/>
                     <attribute id="TableUUID" type="guid" value="be173689-598d-44bc-83b7-e26df96daec8"/> 
                     <attribute id="UUID" type="guid" value="d2d8127d-7ab3-42e8-9fbb-6891b851a45d"/> 

@@ -15,7 +15,7 @@
 	<content contentuid="hafa5582egb351g406bga8dbg60a8c026673e" version="1">Vocalis Dissection</content>
 	<content contentuid="h2f714153g2180g4984gb571g588e1d4db670" version="1">With your autopsy and anatomical expertise, dissect larynx from the body.</content>
 	<content contentuid="hc220d2a0g3cdcg4690ga8fcge232c1f9bdd8" version="1">Sanguinary Projection</content>
-	<content contentuid="h4517bdfcg8707g4473g87cegcc8b97b3f9ef" version="1">Throws a blood jar onto a surface, forming a blood surface. Creatures within this space become wet and are covered in &lt;LSTag Type="Status" Tooltip="BLOODY_WET"&gt;Bloody Drenched&lt;/LSTag&gt;.</content>
+	<content contentuid="h4517bdfcg8707g4473g87cegcc8b97b3f9ef" version="1">Throws a blood jar onto a surface, forming a blood surface. Creatures within this space become &lt;LSTag Type="Status" Tooltip="BLOODY_WET"&gt;Bloody Drenched&lt;/LSTag&gt;.</content>
 	<content contentuid="hbbfeba37g414eg4e80g9454g574383b73261" version="1">Bloodletting</content>
 	<content contentuid="h17b5623cg793ag4dd8g91f6gae8b05201c77" version="1">Intentionally draws blood. If the target is hostile, inflict &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleeding&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="SEVERE_BLEEDING_BLOODLETTER"&gt;Severe Bleeding&lt;/LSTag&gt;. Otherwise, purges the target from disease, poison, paralysis or blindness and heals.</content>
 	<content contentuid="hd53766c4gaeafg40feg8491g79a03eba4f7b" version="1">Siphon Blood</content>
@@ -44,7 +44,7 @@
 	<content contentuid="hcdad3dedg6fb2g4d10g9543g0ff1f91ae9a3" version="1">First Blood</content>
 	<content contentuid="hf3370b56g6516g4364gb276ge060eab16c4c" version="1">Upon landing a successful attack on a full-health enemy, the Bloodletter splatters blood, creating a blood surface at the point of impact.</content>
 	<content contentuid="hbee4faecg72d1g4ad5ga0c3gfdc003800ada" version="1">Bloody Drenched</content>
-	<content contentuid="hc52391fag4f7dg41c7gbce9gaf09b2179980" version="1">Prevented from &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;. &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage but &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Lightning, Cold and Necrotic damage. Cannot be healed.</content>
+	<content contentuid="hc52391fag4f7dg41c7gbce9gaf09b2179980" version="1">Prevented from &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;. &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage but &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Lightning, Cold and Necrotic damage.</content>
 	<content contentuid="hd4edd9cdg9dfeg4efdg9150g0ad9eafccda2" version="1">Hemorrhage Ritual</content>
 	<content contentuid="h064f9d8dg8843g4ddcg808agda78d348bb07" version="1">Sacrifice half of your current hit points and enter &lt;LSTag Type="Status" Tooltip="BLOODLUST_BLOODLETTER"&gt;Blood Tribute&lt;/LSTag&gt; status.</content>
 	<content contentuid="haa9feee7g884bg4570gbdc9gf42af189879e" version="1">Harvest Blood</content>
